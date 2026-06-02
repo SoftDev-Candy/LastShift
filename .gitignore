@@ -1,0 +1,55 @@
+# Unreal Engine generated folders
+/.vs/
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/enc_temp_folder/
+/Plugins/*/Binaries/
+/Plugins/*/Intermediate/
+
+# Per-user or local-only Unreal content
+/Content/Developers/
+/FileOpenOrder/
+
+# IDE and editor metadata
+/.idea/
+/.vscode/
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+*.opendb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Generated project files
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+
+# Build outputs, logs, and crash dumps
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.app
+*.dylib
+*.so
+*.tmp
+*.temp
+*.log
+*.cache
+*.dmp
+
+# OS noise
+Thumbs.db
+.DS_Store
